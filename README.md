@@ -1,4 +1,4 @@
-# PizzariaRedondinha
+# Pizzaria Redondinha
  
 Esse é um Ficção Interativa simples sobre a Pizzaria Redondinha, um ambiente para a investigação de requisitos de um sistema, para ser usado em cursos de Análise de Sistemas, Engenharia de Software e similares. Ele é agnóstico ao método, não tem uma resposta única e possivelmente implica em um sistema grande demais para a pizzaria, mas é o que encontramos no mundo real.
 
