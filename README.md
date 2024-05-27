@@ -8,3 +8,4 @@ Esse "livro-jogo" foi criado a partir de demandas seguidas ao ChatGPT 4o depois 
 
 O jogo ainda precisa de um toque humano, porém já ajuda bastante a alunos discutirem um projeto.
 
+Ela pode ser jogada em [pizzaria.xexeo.net](http:pizzaria.xexeo.net)
