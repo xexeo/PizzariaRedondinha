@@ -17,12 +17,15 @@ Existem duas versões:
 Essa versão só precisa do index.html para rodar.
 O HTML é gerado no Twine, o Twee é importado por ele.
 Essa é a versão originalmente gerada.
+Totalmente executado no browser.
 
 ## Versão Squiffy
 
 Essa versão precisa de mais arquivos para rodar, mas não do arquivo .sq, que é o fonte.
 Essa versão foi convertida da versão Twine pelo ChatGPT 4o (com muito esforço para ele fazer direito kkk).
+Totalmente executado no browser.
 
-
+## Site
+Uma versão do site com os dois jogos rodando, sem problema nenhum para o deploy, não tem pré-requisitos! Tudo executa no browser.
 
 
