@@ -10,5 +10,19 @@ O jogo ainda precisa de um toque humano, porém já ajuda bastante a alunos disc
 
 Ela pode ser jogada em [pizzaria.xexeo.net](http:pizzaria.xexeo.net)
 
+Existem duas versões:
+
+## Versão Twine
+
+Essa versão só precisa do index.html para rodar.
 O HTML é gerado no Twine, o Twee é importado por ele.
+Essa é a versão originalmente gerada.
+
+## Versão Squiffy
+
+Essa versão precisa de mais arquivos para rodar, mas não do arquivo .sq, que é o fonte.
+Essa versão foi convertida da versão Twine pelo ChatGPT 4o (com muito esforço para ele fazer direito kkk).
+
+
+
 
